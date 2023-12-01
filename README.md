@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 -->
 
 
-<iframe src="https://www.naver.com" width="600" height="400"></iframe>
-
-
 ## 🙋🏻‍♂️ Once I've used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
