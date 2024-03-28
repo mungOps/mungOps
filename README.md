@@ -62,5 +62,13 @@
     <p><strong>Communication</strong></p>
     <div>
     </div>
+    <!-- Certification -->
+        <img src="http://mungdocs.kro.kr/images/Certification/CKA.png">
+        <img src="http://mungdocs.kro.kr/images/Certification/SOA.png">
+        <img src="http://mungdocs.kro.kr/images/Certification/NCP.png">
+        <img src="http://mungdocs.kro.kr/images/Certification/NCA.png">
+        <img src="http://mungdocs.kro.kr/images/Certification/AZ900.png">
+    <div>
+    </div>
 </div><br>
 </div>
