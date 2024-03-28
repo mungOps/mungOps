@@ -63,11 +63,11 @@
     <div>
     </div>
     <!-- Certification -->
-        <img src="http://mungdocs.kro.kr/images/Certification/CKA.png">
-        <img src="http://mungdocs.kro.kr/images/Certification/SOA.png">
-        <img src="http://mungdocs.kro.kr/images/Certification/NCP.png">
-        <img src="http://mungdocs.kro.kr/images/Certification/NCA.png">
-        <img src="http://mungdocs.kro.kr/images/Certification/AZ900.png">
+        <img src="http://mungdocs.kro.kr/images/Certification/CKA.png", style="width:150px; height:150px;">
+        <img src="http://mungdocs.kro.kr/images/Certification/SOA.png", style="width:150px; height:150px;">
+        <img src="http://mungdocs.kro.kr/images/Certification/NCP.png", style="width:150px; height:150px;">
+        <img src="http://mungdocs.kro.kr/images/Certification/NCA.png", style="width:150px; height:150px;">
+        <img src="http://mungdocs.kro.kr/images/Certification/AZ900.png", style="width:150px; height:150px;">
     <div>
     </div>
 </div><br>
