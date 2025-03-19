@@ -63,11 +63,13 @@
     <div>
     </div>
     <!-- Certification -->
-        <img src="http://mungdocs.kro.kr/images/Certification/CKA.png", style="width:150px; height:150px;">
-        <img src="http://mungdocs.kro.kr/images/Certification/SOA.png", style="width:150px; height:150px;">
-        <img src="http://mungdocs.kro.kr/images/Certification/NCP.png", style="width:150px; height:150px;">
-        <img src="http://mungdocs.kro.kr/images/Certification/NCA.png", style="width:150px; height:150px;">
-        <img src="http://mungdocs.kro.kr/images/Certification/AZ900.png", style="width:150px; height:150px;">
+        <img src="http://mungops.github.io/images/Certification/CKA.png", style="width:150px; height:150px;">
+        <img src="http://mungops.github.io/images/Certification/CKAD.png", style="width:150px; height:150px;">
+        <img src="http://mungops.github.io/images/Certification/CKS.png", style="width:150px; height:150px;">
+        <img src="http://mungops.github.io/images/Certification/SOA.png", style="width:150px; height:150px;">
+        <img src="http://mungops.github.io/images/Certification/NCP.png", style="width:150px; height:150px;">
+        <img src="http://mungops.github.io/images/Certification/NCA.png", style="width:150px; height:150px;">
+        <img src="http://mungops.github.io/images/Certification/AZ900.png", style="width:150px; height:150px;">
     <div>
     </div>
 </div><br>
