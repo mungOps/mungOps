@@ -1,4 +1,10 @@
 
+## 🚀 Connect with Me
+
+[![Blog](https://img.shields.io/badge/Blog-Visit%20Now-blue?style=for-the-badge&logo=githubpages)](https://mungops.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:snoopy.mung@gmail.com)
+
+<br>
 
 ![](https://yourbasic.org/golang/square-gopher.png)
 
