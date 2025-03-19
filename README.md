@@ -62,15 +62,47 @@
     <p><strong>Communication</strong></p>
     <div>
     </div>
-    <!-- Certification -->
+</div><br>
+</div>
+
+<br>
+
+<br>
+
+**My Certifications** 🏆
+
+
+<div class="certification-container">
+  <!-- Linux Foundation -->
+  <h2 class="cert-header">🌐 Linux Foundation</h2>
+  <div class="cert-grid">
         <img src="http://mungops.github.io/images/Certification/CKA.png", style="width:150px; height:150px;">
         <img src="http://mungops.github.io/images/Certification/CKAD.png", style="width:150px; height:150px;">
         <img src="http://mungops.github.io/images/Certification/CKS.png", style="width:150px; height:150px;">
-        <img src="http://mungops.github.io/images/Certification/SOA.png", style="width:150px; height:150px;">
+  </div>
+
+<br>
+
+  <!-- AWS -->
+  <h2 class="cert-header">☁️ AWS</h2>
+  <div class="cert-grid">
+    <img src="http://mungops.github.io/images/Certification/SOA.png", style="width:150px; height:150px;">
+  </div>
+
+<br>
+
+  <!-- Naver Cloud -->
+  <h2 class="cert-header">🟢 Naver Cloud</h2>
+      <div class="cert-grid">
         <img src="http://mungops.github.io/images/Certification/NCP.png", style="width:150px; height:150px;">
         <img src="http://mungops.github.io/images/Certification/NCA.png", style="width:150px; height:150px;">
+      </div>
+
+<br>
+
+  <!-- Microsoft -->
+  <h2 class="cert-header">🔵 Microsoft</h2>
+  <div class="cert-grid">
         <img src="http://mungops.github.io/images/Certification/AZ900.png", style="width:150px; height:150px;">
-    <div>
-    </div>
-</div><br>
-</div>
+  </div>
+
