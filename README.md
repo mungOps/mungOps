@@ -82,8 +82,6 @@
 <!-- Framework -->
 <p><strong>Framework</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
