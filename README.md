@@ -155,7 +155,9 @@
 
 <div style="display:flex; gap:20px; align-items:center; margin-top:20px;">
   <div style="flex:0 0 180px;">
+    <a href="https://labby.co.kr" target="_blank" style="flex:0 0 180px; text-decoration:none;">
     <img src="https://labby.co.kr/static/images/logo.png" style="width:120px; height:120px; border-radius:20px;">
+    </a>
   </div>
   <div style="flex:1;">
     <h3 style="margin:0;"> <a href="https://labby.co.kr"> Diagrammer</a></h3>
