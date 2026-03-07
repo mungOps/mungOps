@@ -111,8 +111,8 @@
 <div class="certification-container">
   <!-- Linux Foundation -->
     <h2 class="cert-header">🌐 Linux Foundation</h2>
-    <div class="cert-grid">
     
+    <div class="cert-grid">
         <a href="http://mungops.github.io/images/Certification/CKA_jklee.pdf" target="_blank">
             <img src="http://mungops.github.io/images/Certification/CKA.png" style="width:150px; height:150px;">
         </a>
