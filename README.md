@@ -115,6 +115,7 @@
         <img src="http://mungops.github.io/images/Certification/CKA.png", style="width:150px; height:150px;">
         <img src="http://mungops.github.io/images/Certification/CKAD.png", style="width:150px; height:150px;">
         <img src="http://mungops.github.io/images/Certification/CKS.png", style="width:150px; height:150px;">
+        <img src="http://mungops.github.io/images/Certification/KCNA.png", style="width:150px; height:150px;">
   </div>
 
 <br>
