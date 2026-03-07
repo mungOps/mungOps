@@ -128,8 +128,8 @@
         <a href="http://mungops.github.io/images/Certification/KCNA_jklee.pdf" target="_blank">
             <img src="http://mungops.github.io/images/Certification/KCNA.png" style="width:150px; height:150px;">
         </a>
-    
     </div>
+</div>
 <br>
 
   <!-- AWS -->
